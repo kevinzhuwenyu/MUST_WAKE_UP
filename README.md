@@ -26,5 +26,9 @@ In your browser, open the file:
 ### Math game
 ![screen shot 2017-06-13 at 00 43 24](https://user-images.githubusercontent.com/13424602/27066365-852f0c3a-4fd1-11e7-818a-161b283449e6.png)
 
+### Shake your phone 
+![screen shot 2017-06-13 at 00 43 17](https://user-images.githubusercontent.com/13424602/27066360-7eec245c-4fd1-11e7-9a2e-259968332a2d.png)
+
+### Tpying game
 
 
