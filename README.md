@@ -33,6 +33,7 @@ In your browser, open the file:
 ![screen shot 2017-06-13 at 00 43 30](https://user-images.githubusercontent.com/13424602/27066369-8a70f154-4fd1-11e7-9d35-450f211a734d.png)
 
 ### Skin change 
+![screen shot 2017-06-13 at 00 42 56](https://user-images.githubusercontent.com/13424602/27066348-75af6cb4-4fd1-11e7-81ca-fbc783968caf.png)
 
 
 
