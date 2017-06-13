@@ -1,10 +1,10 @@
 # Must Wake Up (a hybird mobile app)
 Must wake up is a puzzle alram clock design for people who have trouble to get up at the morning.
 Users have to complete some task in order to turn off the alarms (e.g solve math questions, shake the phone).
-This applicaiton is developed by:\\
-wenyu zhu\\
-katrina wang\\
-issac luo
+This applicaiton is developed by: <br />
+wenyu zhu <br />
+katrina wang <br />
+issac luo <br />
 
 
 ### Install on you phone
