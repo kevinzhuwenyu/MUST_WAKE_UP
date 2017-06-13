@@ -30,5 +30,9 @@ In your browser, open the file:
 ![screen shot 2017-06-13 at 00 43 17](https://user-images.githubusercontent.com/13424602/27066360-7eec245c-4fd1-11e7-9a2e-259968332a2d.png)
 
 ### Tpying game
+![screen shot 2017-06-13 at 00 43 30](https://user-images.githubusercontent.com/13424602/27066369-8a70f154-4fd1-11e7-9d35-450f211a734d.png)
+
+### Skin change 
+
 
 
