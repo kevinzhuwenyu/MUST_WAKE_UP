@@ -1,4 +1,9 @@
-# A Blank PhoneGap App
+#Puzzle alarm clock (hybird mobile app)
+developed by:
+wenyu zhu 
+kehan wang
+qing xu
+qiuyun luo
 
 ## Usage
 
