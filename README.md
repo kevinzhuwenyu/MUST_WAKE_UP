@@ -1,12 +1,10 @@
-#Puzzle alarm clock (hybird mobile app)
+# Puzzle alarm clock (hybird mobile app)
 
-## Usage
-
-### PhoneGap CLI
+### Install on you phone
 
     $ phonegap create my-app --template blank
 
-### Desktop
+### Open on your Desktop computer
 
 In your browser, open the file:
 
