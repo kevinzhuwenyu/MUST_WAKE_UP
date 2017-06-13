@@ -3,7 +3,9 @@ Must wake up is a puzzle alram clock design for people who have trouble to get u
 Users have to complete some task in order to turn off the alarms (e.g solve math questions, shake the phone).
 This applicaiton is developed by:
 wenyu zhu
+
 katrina wang
+
 issac luo
 
 
